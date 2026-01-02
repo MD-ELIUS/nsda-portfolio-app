@@ -74,7 +74,7 @@ const Navbar = () => {
 
   return (
     <nav className="bg-white shadow sticky top-0 z-50">
-      <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-8 py-3 flex items-center justify-between">
         {/* Left */}
         <div className="flex items-center gap-2 text-indigo-600 font-bold text-xl">
           <FaUserTie />

@@ -13,7 +13,7 @@ import {
 
 const About = () => {
   return (
-    <main className="max-w-7xl mx-auto px-4 py-16 space-y-20">
+    <main className="max-w-7xl mx-auto px-8 py-16 space-y-20">
 
       {/* ================= PAGE TITLE ================= */}
       <section className="text-center space-y-4">

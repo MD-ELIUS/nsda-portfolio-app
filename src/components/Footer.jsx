@@ -3,7 +3,7 @@ import { FaFacebook, FaLinkedin, FaGithub } from "react-icons/fa";
 const Footer = () => {
   return (
     <footer className="bg-slate-900 text-white py-6 mt-16">
-      <div className="max-w-7xl mx-auto px-4 text-center">
+      <div className="max-w-7xl mx-auto px-8 text-center">
         <h3 className="text-xl font-semibold">MD. Elius</h3>
         <p className="text-sm text-gray-400">
           MERN Stack Developer | Quality & Food Safety Background
